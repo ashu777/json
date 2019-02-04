@@ -1,0 +1,249 @@
+{
+   "Asia": [
+      {
+         "Country_Name": "Afghanistan",
+         "Capital_City": "Kabul",
+         "PreFix": "+93"
+      },
+      {
+         "Country_Name": "Armenia",
+         "Capital_City": "Yerevan",
+         "PreFix": "+374"
+      },
+      {
+         "Country_Name": "Azerbaijan",
+         "Capital_City": "Baku",
+         "PreFix": "+994"
+      },
+      {
+         "Country_Name": "Bahrain",
+         "Capital_City": "Manama",
+         "PreFix": "+973"
+      },
+      {
+         "Country_Name": "Bangladesh",
+         "Capital_City": "Dhaka",
+         "PreFix": "+880"
+      },
+      {
+         "Country_Name": "Bhutan",
+         "Capital_City": "Thimphu",
+         "PreFix": "+975"
+      },
+      {
+         "Country_Name": "Brunei",
+         "Capital_City": "Bandar Seri Begawan",
+         "PreFix": "+673"
+      },
+      {
+         "Country_Name": "Cambodia",
+         "Capital_City": "Phnom Penh",
+         "PreFix": "+855"
+      },
+      {
+         "Country_Name": "China",
+         "Capital_City": "Beijing",
+         "PreFix": "+86"
+      },
+      {
+         "Country_Name": "Georgia",
+         "Capital_City": "Tbilisi",
+         "PreFix": "+995"
+      },
+      {
+         "Country_Name": "Hong Kong",
+         "Capital_City": "Hong Kong",
+         "PreFix": "+852"
+      },
+      {
+         "Country_Name": "India",
+         "Capital_City": "New Delhi",
+         "PreFix": "+91"
+      },
+      {
+         "Country_Name": "Indonesia",
+         "Capital_City": "Jakarta",
+         "PreFix": "+62"
+      },
+      {
+         "Country_Name": "Iran",
+         "Capital_City": "Tehran",
+         "PreFix": "+98"
+      },
+      {
+         "Country_Name": "Iraq",
+         "Capital_City": "Baghdad",
+         "PreFix": "+964"
+      },
+      {
+         "Country_Name": "Israel",
+         "Capital_City": "Jerusalem",
+         "PreFix": "+972"
+      },
+      {
+         "Country_Name": "Japan",
+         "Capital_City": "Tokyo",
+         "PreFix": "+81"
+      },
+      {
+         "Country_Name": "Jordan",
+         "Capital_City": "Amman",
+         "PreFix": "+962"
+      },
+      {
+         "Country_Name": "Kazakhstan",
+         "Capital_City": "Astana",
+         "PreFix": "+7"
+      },
+      {
+         "Country_Name": "Kuwait",
+         "Capital_City": "Kuwait City",
+         "PreFix": "+965"
+      },
+      {
+         "Country_Name": "Kyrgyzstan",
+         "Capital_City": "Bishkek",
+         "PreFix": "+996"
+      },
+      {
+         "Country_Name": "Laos",
+         "Capital_City": "Vientiane",
+         "PreFix": "+856"
+      },
+      {
+         "Country_Name": "Lebanon",
+         "Capital_City": "Beirut",
+         "PreFix": "+961"
+      },
+      {
+         "Country_Name": "Macau",
+         "Capital_City": "Macao",
+         "PreFix": "+853"
+      },
+      {
+         "Country_Name": "Malaysia",
+         "Capital_City": "Kuala Lumpur",
+         "PreFix": "+60"
+      },
+      {
+         "Country_Name": "Maldives",
+         "Capital_City": "Malé",
+         "PreFix": "+960"
+      },
+      {
+         "Country_Name": "Mongolia",
+         "Capital_City": "Ulan Bator",
+         "PreFix": "+976"
+      },
+      {
+         "Country_Name": "Myanmar [Burma]",
+         "Capital_City": "Nay Pyi Taw",
+         "PreFix": "+95"
+      },
+      {
+         "Country_Name": "Nepal",
+         "Capital_City": "Kathmandu",
+         "PreFix": "+977"
+      },
+      {
+         "Country_Name": "North Korea",
+         "Capital_City": "Pyongyang",
+         "PreFix": "+850"
+      },
+      {
+         "Country_Name": "Oman",
+         "Capital_City": "Muscat",
+         "PreFix": "+968"
+      },
+      {
+         "Country_Name": "Pakistan",
+         "Capital_City": "Islamabad",
+         "PreFix": "+92"
+      },
+      {
+         "Country_Name": "Afghanistan",
+         "Capital_City": "Kabul",
+         "PreFix": "+93"
+      },
+      {
+         "Country_Name": "Philippines",
+         "Capital_City": "Manila",
+         "PreFix": "+63"
+      },
+      {
+         "Country_Name": "Qatar",
+         "Capital_City": "Doha",
+         "PreFix": "+974"
+      },
+      {
+         "Country_Name": "Saudi Arabia",
+         "Capital_City": "Riyadh",
+         "PreFix": "+966"
+      },
+      {
+         "Country_Name": "Singapore",
+         "Capital_City": "Singapur",
+         "PreFix": "+65"
+      },
+      {
+         "Country_Name": "South Korea",
+         "Capital_City": "Seoul",
+         "PreFix": "+82"
+      },
+      {
+         "Country_Name": "Sri Lanka",
+         "Capital_City": "Colombo",
+         "PreFix": "+94"
+      },
+      {
+         "Country_Name": "Syria",
+         "Capital_City": "Damascus",
+         "PreFix": "+963"
+      },
+      {
+         "Country_Name": "Taiwan",
+         "Capital_City": "Taipei",
+         "PreFix": "+886"
+      },
+      {
+         "Country_Name": "Tajikistan",
+         "Capital_City": "Dushanbe",
+         "PreFix": "+992"
+      },
+      {
+         "Country_Name": "Thailand",
+         "Capital_City": "Bangkok",
+         "PreFix": "+66"
+      },
+      {
+         "Country_Name": "Turkey",
+         "Capital_City": "Ankara",
+         "PreFix": "+90"
+      },
+      {
+         "Country_Name": "Turkmenistan",
+         "Capital_City": "Ashgabat",
+         "PreFix": "+993"
+      },
+      {
+         "Country_Name": "United Arab Emirates",
+         "Capital_City": "Abu Dhabi",
+         "PreFix": "+971"
+      },
+      {
+         "Country_Name": "Uzbekistan",
+         "Capital_City": "Tashkent",
+         "PreFix": "+998"
+      },
+      {
+         "Country_Name": "Vietnam",
+         "Capital_City": "Hanoi",
+         "PreFix": "+84"
+      },
+      {
+         "Country_Name": "Yemen",
+         "Capital_City": "San‘a’",
+         "PreFix": "+967"
+      }
+   ]
+}
